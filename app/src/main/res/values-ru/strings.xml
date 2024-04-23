@@ -21,7 +21,7 @@
     <string name="profile_screen_title">Профиль</string>
     <string name="profile_screen_section_common_info">Общая информация</string>
     <string name="profile_screen_classname">Класс:</string>
-    <string name="profile_screen_email">Электропочта:</string>
+    <string name="profile_screen_email">Электронная почта:</string>
     <string name="profile_screen_telephone">Телефон:</string>
     <string name="profile_screen_section_school">Школа</string>
     <string name="profile_screen_school_head">Директор:</string>
